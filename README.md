@@ -1,4 +1,4 @@
-The packages1 and packages2# NET-Demo
+# NET-Demo
 
 This is a demo of a .NET project
 
